@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/zidan-portfolio/static/css/main.e3ab4944.css",
+    "main.js": "/zidan-portfolio/static/js/main.7af1bba4.js",
+    "static/media/background.jpg": "/zidan-portfolio/static/media/background.672e0832ad08072895d1.jpg",
+    "static/media/Yummy.png": "/zidan-portfolio/static/media/Yummy.9378581619e922a53091.png",
+    "static/media/Weather.png": "/zidan-portfolio/static/media/Weather.ff2642e2b3809cb3fa08.png",
+    "static/media/MovieWise.png": "/zidan-portfolio/static/media/MovieWise.2778d6901b4b63cf3089.png",
+    "static/media/GameReviews.png": "/zidan-portfolio/static/media/GameReviews.475b87f9ad16e83d65b6.png",
+    "static/media/Flixtube.png": "/zidan-portfolio/static/media/Flixtube.9f68aff4d3f092f8cee9.png",
+    "static/media/Freshcart.png": "/zidan-portfolio/static/media/Freshcart.4e5931d92f4427358251.png",
+    "static/media/fa-solid-900.ttf": "/zidan-portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/zidan-portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/zidan-portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/BurnBright.png": "/zidan-portfolio/static/media/BurnBright.e0bf704bd16cb2174949.png",
+    "static/media/fa-brands-400.woff2": "/zidan-portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/zidan-portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/frontend.png": "/zidan-portfolio/static/media/frontend.c0cb2cc13791a26822d3.png",
+    "static/media/atom.png": "/zidan-portfolio/static/media/atom.ac9979693620f0a96231.png",
+    "static/media/coding.png": "/zidan-portfolio/static/media/coding.3d331ccd447941425403.png",
+    "static/media/design.png": "/zidan-portfolio/static/media/design.805ad5b19e7f665cabf0.png",
+    "static/media/fa-regular-400.woff2": "/zidan-portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/react.png": "/zidan-portfolio/static/media/react.15e7b89f1018dcdba6e7.png",
+    "static/media/webdesign.png": "/zidan-portfolio/static/media/webdesign.f8923ce18390029928ac.png",
+    "static/media/fa-v4compatibility.ttf": "/zidan-portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/zidan-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/zidan-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/zidan-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/zidan-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/zidan-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/zidan-portfolio/index.html",
+    "main.e3ab4944.css.map": "/zidan-portfolio/static/css/main.e3ab4944.css.map",
+    "main.7af1bba4.js.map": "/zidan-portfolio/static/js/main.7af1bba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ab4944.css",
+    "static/js/main.7af1bba4.js"
+  ]
+}
